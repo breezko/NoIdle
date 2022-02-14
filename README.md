@@ -1,6 +1,6 @@
 # NoIdle (LostArk)
 
-Script to prevent you from disconnecting.
+Script to prevent you from disconnecting in Lost Ark
 
 ## Usage
 
