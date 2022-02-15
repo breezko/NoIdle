@@ -1,6 +1,6 @@
 # NoIdle (LostArk)
 
-Script to prevent you from disconnecting in Lost Ark
+Script to prevent you from disconnecting in Lost Ark - Because everybody deserves to play the game without endless queue times in main hours.
 
 ## Showcase
 
