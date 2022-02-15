@@ -34,7 +34,6 @@ MsgBox, Made by Breezko (https://github.com/breezko)
 MenuHandler:
 return
 
-; 1536, 975 (default)
 ; Hotkeys
 F9::
 if WinExist("LOST ARK")
@@ -47,11 +46,11 @@ if WinExist("LOST ARK")
         Random, sleep, 500,1000
         x := xMultiplier * wWidth
         y := yMultiplier * wHeight
-        centerX := 0.5 * wWidth
-        centerY := 0.5 * wHeight
-        ToolTip,  Press F10 to Stop, %centerX%,%centerY%
+        tooltipX := 0.1 * wWidth
+        tooltipY := 0.2 * wHeight
+        ToolTip,  Press F10 to Stop, %tooltipX%,%tooltipY%
         ;MouseMove,  %x%,%y%
-        Click, %x%,%y%,
+        Click, %x%,%y%
         Sleep, %sleep%
     }
 }
