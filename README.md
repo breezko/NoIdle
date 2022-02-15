@@ -2,6 +2,10 @@
 
 Script to prevent you from disconnecting in Lost Ark
 
+## Showcase
+
+![Showcase](assets/showcase.gif)
+
 ## Installation
 
 Download binary (exe) from [releases](https://github.com/breezko/NoIdle/releases).
